@@ -373,6 +373,16 @@ namespace Network_Traffic_analyzer.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap iStock_1177116437 {
+            get {
+                object obj = ResourceManager.GetObject("iStock-1177116437", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap istockphoto_1285395672_170667a {
             get {
                 object obj = ResourceManager.GetObject("istockphoto-1285395672-170667a", resourceCulture);
@@ -386,6 +396,16 @@ namespace Network_Traffic_analyzer.Properties {
         internal static System.Drawing.Bitmap Network_Traffic_Analyzer {
             get {
                 object obj = ResourceManager.GetObject("Network Traffic Analyzer", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap olRwW9 {
+            get {
+                object obj = ResourceManager.GetObject("olRwW9", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -417,6 +437,16 @@ namespace Network_Traffic_analyzer.Properties {
         internal static System.Drawing.Bitmap pngwing_com__2_ {
             get {
                 object obj = ResourceManager.GetObject("pngwing.com (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap rm373batch2_09_knydwd2b {
+            get {
+                object obj = ResourceManager.GetObject("rm373batch2-09-knydwd2b", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

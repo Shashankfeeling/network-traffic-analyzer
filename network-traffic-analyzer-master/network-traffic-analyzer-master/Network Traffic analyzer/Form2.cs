@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Network_Traffic_analyzer
 {
-    public partial class Admin : Form
+    public partial class Form2 : Form
     {
-        public Admin()
+        public Form2()
         {
             InitializeComponent();
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
